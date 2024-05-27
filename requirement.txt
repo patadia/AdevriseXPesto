@@ -1,0 +1,8 @@
+pandas
+apache-avro
+pyarrow
+fastavro
+boto3
+sqlalchemy
+psycopg2
+flask
